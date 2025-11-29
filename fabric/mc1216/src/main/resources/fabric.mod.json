@@ -14,6 +14,9 @@
       "ac.grim.grimac.platform.fabric.mc1216.GrimACFabric1212LoaderPlugin"
     ]
   },
+  "mixins": [
+    "grimac-mc1216.mixins.json"
+  ],
   "accessWidener": "grimac.accesswidener",
   "depends": {
     "minecraft": ">=1.21.2",
